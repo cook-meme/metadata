@@ -1,0 +1,6 @@
+{
+  "name": "Meme Staked SOL",
+  "symbol": "memeSOL",
+  "description": "An LST that continuously utilizes staking rewards to buy back memecoins launched on the cook.meme platform.",
+  "image": "https://raw.githubusercontent.com/cook-meme/metadata/refs/heads/main/icon.png"
+}
